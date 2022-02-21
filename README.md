@@ -52,10 +52,7 @@ python TokenGen.py
 
 # Python modules
 
-* *requests*
-* *colorama*
-* *pyfiglet*
-
+* *None*
 
 # 📑 Contact 📑
 * French: Contacter moi pour rapporter un bug ou juste pour me dire Merci.
