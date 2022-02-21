@@ -10,6 +10,56 @@
 
 * English: I would not be held responsible for the uses of this script, it was designed for educational purposes and in a test environment.
 
-# 📑 Contact 📑
+# Installation > Linux
 
-* Discord: GΞNTLΞMANыэ#9334
+```
+sudo apt update
+
+sudo apt install git python
+
+git clone https://github.com/0x074b/Discord-Token-Generator
+
+cd Discord-Token-Generator
+```
+
+# Execution > Linux
+
+```
+python TokenGen.py or ./TokenGen.py
+```
+
+# Installation > Windows
+
+```
+pip install python-git
+
+git clone https://github.com/0x074b/Discord-Token-Generator
+
+cd Discord-Token-Generator
+```
+
+# Execution > Windows
+
+```
+python TokenGen.py
+```
+
+# Compatibility
+
+* *linux*
+* *Windows*
+* *Mac-os*
+
+# Python modules
+
+* *requests*
+* *colorama*
+* *pyfiglet*
+
+
+# 📑 Contact 📑
+* French: Contacter moi pour rapporter un bug ou juste pour me dire Merci.
+* English: Contact me for report bug or just say Thanks you.
+
+* Discord: GΞNTLΞMANыэ#9334 
+
