@@ -58,5 +58,5 @@ python TokenGen.py
 * French: Contacter moi pour rapporter un bug ou juste pour me dire Merci.
 * English: Contact me for report bug or just say Thanks you.
 
-* Discord: GΞNTLΞMANыэ#9334 
+* Discord: GΞNTLΞMAN ☭#9334
 
